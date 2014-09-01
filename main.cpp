@@ -206,6 +206,9 @@ int main() {
 
 	cout << "Press enter to close";
 	
+	
+	//testing
+	/*
 	stack myStack;
 	myStack.push('s');
 	for(int i=0;i<198;i++)
@@ -226,7 +229,7 @@ int main() {
 	{
 		cout << myStack.pop();
 	}
-
+*/
 
 	cin.get();//keep from closing
 	cin.get();
